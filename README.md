@@ -1,5 +1,4 @@
-### Oiii eu sou a brenda souza,
--😊Estudando html,css,java.
+### OLA! EU SOU A BRENDA SOUZA
 <div align="center">
   <a href="https://github.com/brenda200">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenda200&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -9,8 +9,9 @@
   <img align="center" alt="Brenda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Brenda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="brenda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="brenda-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
- 
+  
+  <img align="center" alt="vuejs" src="https://img.shields.io/badge/vue.js-00FF7F?style=for-the-badge&logo=vue.js&logoColor=gray">
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-BF40BF?style=for-the-badge&logo=php&logoColor=white">
 </div>
   
   ##

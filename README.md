@@ -24,10 +24,10 @@ Tenho 21 anos, moro em Belém do pará e sou apaixonada por programação! Sou D
   ### ❤️ Let's get connected:
 <div> 
  
-  <a href="https://instagram.com/brenda__dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=""></a>
+  <a href="https://www.instagram.com/brendasz2612/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=""></a>
  <a href="brendasz2612#5931" target="brendasz2612#5931"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="brendasz2612#5931"></a> 
   <a href = "mailto:brendadiniz2612@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/brenda-souza-a95a97208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href=https://www.linkedin.com/in/brenda-souza-a95a97208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
 </div>

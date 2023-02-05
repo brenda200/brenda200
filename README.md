@@ -1,6 +1,10 @@
 ## Hello, Devs!!
 Tenho 21 anos, moro em Belém do pará e sou apaixonada por programação! Sou Desenvolvedora front-end, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
 
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
+
 <div align="center">
   <a href="https://github.com/brenda200">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenda200&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

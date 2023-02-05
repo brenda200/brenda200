@@ -22,4 +22,3 @@
  
  
 </div>
-![Snake animation](https://github.com/brenda200/brenda200/blob/output/github-contribution-grid-snake.svg)

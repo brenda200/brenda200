@@ -2,7 +2,7 @@
 Tenho 21 anos, moro em Belém do pará e sou apaixonada por programação! Sou Desenvolvedora front-end, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+https://i.pinimg.com/originals/a7/53/a1/a753a1d7a63ceebebd970643b59f2cde.gif
 </p>
 
 <div align="center">

@@ -2,7 +2,7 @@
 Tenho 21 anos, moro em Belém do pará e sou apaixonada por programação! Sou Desenvolvedora front-end, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
 
 <p align="center">
-<img src="[https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif)](https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif)](https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif)" width="350" >
+<img src="https://i.pinimg.com/originals/88/d0/fc/88d0fc611a590af495397135b4a9562d.gif" width="350" >
 </p>
 
 <div align="center">
